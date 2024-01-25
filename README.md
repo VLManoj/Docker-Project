@@ -1,2 +1,2 @@
 # Docker-Project
-Uploding project to docker Continer and docker hub,
+Uploding project to docker Container and docker hub.
